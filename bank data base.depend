@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1663030329 source:h:\engineering\embedded\bank database\bank data base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"operations.h"
+
+1663030144 source:h:\engineering\embedded\bank database\bank data base\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"operations.h"
+
+1663030144 h:\engineering\embedded\bank database\bank data base\operations.h
+
+1663156982 source:f:\engineering\embedded\bank database\bank data base\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"operations.h"
+
+1663084940 f:\engineering\embedded\bank database\bank data base\operations.h
+
+1663156982 source:f:\engineering\embedded\bank database\bank data base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"operations.h"
+
